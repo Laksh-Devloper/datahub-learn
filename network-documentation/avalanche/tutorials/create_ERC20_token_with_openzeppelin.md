@@ -1,5 +1,23 @@
 # Overview 
 
+## Creating ERC20 token with OpenZeppelin 🥇
+
+## About the author 
+
+Hi, I'm Laksh, aged 16 and a passionate Developer 🚀 from [India](https://en.wikipedia.org/wiki/India) with a strong interest in Coding and Developing new things.
+
+🌱 I’m just a beginner Who knows Web Development and knows  HTML , CSS , JS , Python and C. I too have interest in Cyber Security and  have  a lot of certifications in various fields.
+
+🥇 On the way Of learning More... 
+
+📫 How to reach me:
+
+Follow me on [Instagram](https://www.instagram.com/hackerlaksh22/) 🐦
+
+Shoot me a [mail](hackersarenayt22@gmail.com) 💌
+
+Ping me on [Telegram](https://t.me/Laksh_Coder) ↗️
+
 ## What is OpenZeppelin ?
 
 # <img src="https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/19054/images/hlzHh5QYTeKpf8vCUbeQ_logo_openzeppelin_b8c833659d043cf69a7dd13d3487defdac2af8fd9d487db68e457f129284f8dc_opti.png" alt="OpenZeppelin" height="150px">
@@ -42,9 +60,10 @@ constructor() ERC721("MyNFT", "MNFT") {
 
 _If you're new to smart contract development, head to [Developing Smart Contracts](https://docs.openzeppelin.com/learn/developing-smart-contracts) to learn about creating a new project and compiling your contracts._
 
-To keep your system secure, you should always use the installed code as-it-is, and neither copy-paste it from online sources, nor modify it yourself.
-The library is designed so that only the contracts and functions you use are deployed, so you don’t need to worry about it needlessly increasing gas costs.
-In simple words don't blindly copy paste the code from  any third party site because it may affect your financial balance. 
+* To keep your system secure, you should always use the installed code as-it-is, and neither copy-paste it from online sources, nor modify it yourself.
+* The library is designed so that only the contracts and functions you use are deployed, so you don’t need to worry about it needlessly increasing gas costs.
+* In simple words don't blindly copy paste the code from  any third party site because it may affect your financial balance. 
+
 Be safe.
 
 Please report any security issues you find to security@openzeppelin.org.
@@ -77,11 +96,11 @@ Finally, you may want to take a look at the [guides on our blog](https://blog.op
 
 # <img src="https://www.technoloader.com/blog/wp-content/uploads/2019/06/ERC20-Token.jpg" alt="ERC20 Token" height="100%">
 
-ERC20 token is the most convient token, but remmember all tokens are equal no price difference or speciality is there.
-An ERC20 token contract keeps track of fungible tokens: any one token is exactly equal to any other token; no tokens have special rights or behavior associated with them. 
-This makes ERC20 tokens useful for things like a medium of exchange currency, voting rights, staking, and more.
+ * ERC20 token is the most convient token, but remmember all tokens are equal no price difference or speciality is there.
+ * An ERC20 token contract keeps track of fungible tokens: any one token is exactly equal to any other token; no tokens have special rights or behavior associated with them. 
+ * This makes ERC20 tokens useful for things like a medium of exchange currency, voting rights, staking, and more.
 
-ERC20 is the most widespread token standard for fungible assets, somewhat limited by its simplicity and used widely and is trusted wisely. 
+*ERC20 is the most widespread token standard for fungible assets, somewhat limited by its simplicity and used widely and is trusted wisely.*
 
 ### Constructing an ERC20 Token Contract 🎊
 
@@ -145,3 +164,7 @@ Additionally, we’re creating an initialSupply of tokens, which will be assigne
 
 Thank you for reading 
 Have a great day 🥰
+
+If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
+
+Made with ❤️ in [India](https://en.wikipedia.org/wiki/India).
